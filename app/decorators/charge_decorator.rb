@@ -1,4 +1,4 @@
-class DeliveryDecorator < Draper::Decorator
+class ChargeDecorator < Draper::Decorator
   delegate_all
 
   # Define presentation-specific methods here. Helpers are accessed through
